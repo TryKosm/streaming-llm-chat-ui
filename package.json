@@ -1,0 +1,14 @@
+{
+  "name": "streaming-llm-chat-ui",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "node --test dist/tests/*.test.js",
+    "start": "node dist/server/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
