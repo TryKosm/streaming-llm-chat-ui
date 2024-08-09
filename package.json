@@ -1,5 +1,5 @@
 {
-  "name": "streaming-llm-chat-ui",
+  "name": "llm-stream-chat",
   "version": "0.1.0",
   "private": true,
   "type": "module",

@@ -1,8 +1,10 @@
-# streaming-llm-chat-ui
+# Llm Stream Chat
 
-![CI](https://github.com/TryKosm/streaming-llm-chat-ui/actions/workflows/ci.yml/badge.svg)
+Streaming chat UI with SSE backend and TypeScript client.
 
-![CI](https://github.com/TryKosm/streaming-llm-chat-ui/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/TryKosm/llm-stream-chat/actions/workflows/ci.yml/badge.svg)
+
+![CI](https://github.com/TryKosm/llm-stream-chat/actions/workflows/ci.yml/badge.svg)
 
 TypeScript project with a minimal streaming chat backend and browser frontend client.
 
